@@ -1,1 +1,1 @@
-# QtStackedLayout
+# Stacked Layout Qt
